@@ -1,0 +1,98 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# Mac system files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build directories
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary folders
+tmp/
+temp/
+
+# Ignore the public directory if it is generated
+public/
+
+# Ignore the src directory if it is generated
+src/
+
+# Ignore the test directory if it is generated
+test/
+
+# Ignore the config directory if it is generated
+config/
+
+# Ignore the bin directory if it is generated
+bin/
+
+# Ignore the lib directory if it is generated
+lib/
+
+# Ignore the logs directory if it is generated
+logs/
+
+# Ignore the scripts directory if it is generated
+scripts/
+
+# Ignore the views directory if it is generated
+views/
+
+# Ignore the assets directory if it is generated
+assets/
+
+# Ignore the static directory if it is generated
+static/
+
+# Ignore the uploads directory if it is generated
+uploads/
+
+# Ignore the data directory if it is generated
+data/
+
+# Ignore the database directory if it is generated
+database/
+
+# Ignore the migrations directory if it is generated
+migrations/
+
+# Ignore the seeds directory if it is generated
+seeds/
+
+# Ignore the models directory if it is generated
+models/
+
